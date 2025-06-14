@@ -79,3 +79,15 @@ No fuckups - no experience
 Tell about what was in vacancy
 
 You aim to show that you match with the company
+
+
+### Your grade clarification
+
+**Questions**
+- The hardest task?
+- The hardest challenges you have overcome?
+- Arguments with collea
+
+
+The simpler the hardest task you solved, the lower is your grade
+
