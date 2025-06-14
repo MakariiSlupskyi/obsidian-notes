@@ -11,7 +11,7 @@
 **Videos**
 - [ ] self-presentation
 - [ ] experience cheating
-- [ ] interview soft skills
+- [x] interview soft skills
 
 
 Tech Stack
@@ -22,4 +22,5 @@ Tech Stack
 
 
 **Work**
-- [ ] Aaa
+- [ ] Create simple but finished project to train tech
+- [ ] Create webby
