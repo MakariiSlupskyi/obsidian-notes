@@ -48,6 +48,12 @@ They want to check
 - its relevance
 - have you learnt from your mistakes 
 
+Types of bad stories
+1. Personal fuckup
+2. Conflicts with team
+3. Problems with processes
+
+
 No fuckups - no experience
 
 
@@ -61,3 +67,15 @@ No fuckups - no experience
 - Arguments with colleagues?
 - Something you'd like to change in previous job?
 - Where are you localed?
+
+
+**What to tell about processes**
+- number of people in team
+- dailies, grumings, planning, retro, scrum/kanban
+- Was there code review
+- Who 
+
+
+Tell about what was in vacancy
+
+You aim to show that you match with the company

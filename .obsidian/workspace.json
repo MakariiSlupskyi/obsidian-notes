@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0bbdf080ad163a1",
+  "active": "1c0c71e8714531ad",
   "lastOpenFiles": [
-    "Interview Soft Skills.md",
     "Plans.md",
-    "How To Tell Bad Stories Well.md"
+    "How To Tell Bad Stories Well.md",
+    "Interview Soft Skills.md"
   ]
 }
