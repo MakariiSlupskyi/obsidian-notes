@@ -12,3 +12,14 @@
 - [ ] self-presentation
 - [ ] experience cheating
 - [ ] interview soft skills
+
+
+Tech Stack
+- [ ] Docker
+- [ ] Postgres + go API
+- [ ] Github actions
+- [ ] Ansible
+
+
+**Work**
+- [ ] Aaa
