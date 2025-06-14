@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Plans"
             }
+          },
+          {
+            "id": "1c0c71e8714531ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Soft Skills.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview Soft Skills"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 212.5
   },
   "right": {
     "id": "21156c3c0149cda4",
@@ -165,11 +180,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12c65aebfc12a9ff",
+  "active": "1c0c71e8714531ad",
   "lastOpenFiles": [
-    "Plans.md"
+    "Plans.md",
+    "Interview Soft Skills.md"
   ]
 }

@@ -1,8 +1,14 @@
 
-Todays:
+**Todays**
 - [x] learn hotkeys & add own ones
 - [x] setup mac-specific soft
 - [x] setup terminal
-- [ ] setup python, npm, g++
+- [x] setup python, npm, g++
 - [ ] create go API with docker
-- [ ] 
+- [ ] create CRUD with go, docker, postgres
+
+
+**Videos**
+- [ ] self-presentation
+- [ ] experience cheating
+- [ ] interview soft skills
