@@ -19,3 +19,23 @@ A full-stack app where users can write, organize, and analyze notes— with the 
 - CI/CD - Github actions
 
 
+**Frontend**
+- Note editor
+- Real-time readme
+- Login page
+- Graph view
+- Github connection
+
+
+**Backend**
+- JWT/google auth
+- AI endpoints
+- Database
+- Local LLM
+
+
+
+---
+
+### 2. Vizual – AI-powered visual-coding cross-platform dev tool
+

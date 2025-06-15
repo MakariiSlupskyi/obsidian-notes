@@ -6,6 +6,9 @@
 - [x] setup python, npm, g++
 - [ ] create go API with docker
 - [ ] create CRUD with go, docker, postgres
+- [ ] end go course
+- [ ] end docker course
+- [ ] end CI/CD course
 
 
 **Videos**
