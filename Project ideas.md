@@ -10,7 +10,7 @@ A full-stack app where users can write, organize, and analyze notes— with the 
 
 
 **Stack**
-- Frontend - React + TypeScript + Tailwind
+- Frontend - React + TypeScript + Tailwind + Zustand
 - Backend - Go
 - Database - Postgres
 - AI - local model
