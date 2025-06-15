@@ -1,3 +1,3 @@
 
-### Simple but finished app
+### NeuraNotes – AI-First Smart Note System
 
