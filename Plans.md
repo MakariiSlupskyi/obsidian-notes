@@ -15,12 +15,16 @@
 
 
 Tech Stack
+- [ ] Go
 - [ ] Docker
-- [ ] Postgres + go API
+- [ ] Postgres
+- [ ] Redis
+- [ ] Kafka
+- [ ] RabbitMQ
 - [ ] Github actions
 - [ ] Ansible
 
 
 **Work**
-- [ ] Create simple but finished project to train tech
-- [ ] Create webby
+- [ ] Create simple but finished project to train tech (NeuraNotes)
+- [ ] Create webby (Vizual)

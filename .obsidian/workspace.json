@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project ideas.md",
+                "file": "Plans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project ideas"
+              "title": "Plans"
             }
           },
           {
@@ -213,9 +213,9 @@
   },
   "active": "12c65aebfc12a9ff",
   "lastOpenFiles": [
-    "Plans.md",
-    "Interview Soft Skills.md",
     "Project ideas.md",
+    "Interview Soft Skills.md",
+    "Plans.md",
     "How To Tell Bad Stories Well.md"
   ]
 }
