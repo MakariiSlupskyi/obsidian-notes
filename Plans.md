@@ -21,6 +21,7 @@ Tech Stack
 - [ ] Go
 - [ ] Docker
 - [ ] Postgres
+- [ ] S3
 - [ ] Redis
 - [ ] Kafka
 - [ ] RabbitMQ
