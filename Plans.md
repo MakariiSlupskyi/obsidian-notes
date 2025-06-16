@@ -4,11 +4,13 @@
 - [x] setup mac-specific soft
 - [x] setup terminal
 - [x] setup python, npm, g++
-- [ ] create go API with docker
+- [ ] create go API
 - [ ] create CRUD with go, docker, postgres
 - [ ] end go course
 - [ ] end docker course
 - [ ] end CI/CD course
+- [ ] Go TUI app
+- [ ] Concurrent Web Scraper
 
 
 **Videos**
