@@ -9,8 +9,11 @@
 - [ ] end go course
 - [ ] end docker course
 - [ ] end CI/CD course
-- [ ] Go TUI app
+
+**Go Projects**
+- [ ] TUI app
 - [ ] Concurrent Web Scraper
+- [ ] Realtime Collaboration App
 
 
 **Videos**
