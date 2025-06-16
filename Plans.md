@@ -11,7 +11,7 @@
 
 
 **Go Projects**
-- [ ] TUI app
+- [ ] TUI Habit Tracker
 - [ ] Simple API
 - [ ] Concurrent Web Scraper
 - [ ] Realtime Collaboration App
