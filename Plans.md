@@ -17,6 +17,8 @@
 - [ ] Realtime Collaboration App
 - [ ] Own Compiler
 - [ ] Own Interpreter
+- [ ] Microservice System
+- [ ] NeuraNotes Backend
 
 
 **Videos**

@@ -37,5 +37,5 @@ A full-stack app where users can write, organize, and analyze notes— with the 
 
 ---
 
-### 2. Vizual – AI-powered visual-coding cross-platform dev tool
+### 2. Vizual – AI-powered visual-coding dev tool
 
