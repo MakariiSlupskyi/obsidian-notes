@@ -44,6 +44,39 @@ An AI-powered visual coding platform for building full-stack, cross-platform app
 Developing with web techniques - applied to everything
 
 ---
+Hey everyone!
+
+I'm a solo builder and I’ve been working on a project called **Vizual** — it’s an AI-powered visual coding platform that helps people design full-stack applications **and export real production code**, not just prototypes.
+
+🛠️ Why I built this:
+I noticed that most visual or no-code tools are either too simple (like Scratch) or not flexible enough to build real-world apps. And traditional tools can feel overwhelming for beginners or solo indie makers.
+
+So I thought… what if you could:
+- visually design apps (frontend, backend, API, DB),
+- use AI to help you build logic/structure, and
+- export clean, editable code for **React, Node, etc.**
+
+ 🚀 What it does:
+- Visual drag-and-drop UI builder with real component system
+- Visual scripting for APIs and logic
+- Database schema builder
+- Real code export (React, Express, etc.)
+- AI help for logic, refactoring, design hints
+
+It’s like **Figma meets GitHub Copilot**, but full-stack.
+
+ 🔍 Why I'm here:
+I’d love to get your honest feedback — whether you're learning to code, building your own startup, or teaching programming.
+
+I'm offering **free early access** for anyone curious. You can check it out here: [Landing Page Link or DM me]
+
+Thanks for reading, happy to answer any questions or hear your thoughts!
+
+— [Your Name or Reddit handle]
+
+---
+
+---
 ### Frontend Editor (UI + Logic)
 
 
