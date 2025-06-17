@@ -39,15 +39,21 @@ A full-stack app where users can write, organize, and analyze notes— with the 
 
 ### 2. Vizual – AI-powered visual-coding dev tool
 
-A modern power cross-visual-coding
+A modern power cross-platform visual-coding dev tool
+
+Developing with web techniques - applied to everything
+
+---
 ### Frontend Editor (UI + Logic)
 
 
 
+---
 ### Backend Editor (API + Database)
 
 
 
+---
 ### System Editor (microservices + brokers)
 
 
