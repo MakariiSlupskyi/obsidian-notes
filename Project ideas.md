@@ -63,6 +63,11 @@ Service-first
 
 **Frontend Service**
 - UI
-	- 
 
+**Backend Service**
+- API
 
+**UI**
+- tree of components where each can call action
+
+Action
