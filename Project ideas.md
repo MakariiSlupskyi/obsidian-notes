@@ -70,4 +70,14 @@ Service-first
 **UI**
 - tree of components where each can call action
 
-Action
+**Component**
+- a function that returns UI and can have state
+
+**Action**
+- basically a function
+
+**Block**
+- Main UI primitive and action caller
+- Some action can be caller by triggers
+- **Trigger**
+	- eg. onClick
