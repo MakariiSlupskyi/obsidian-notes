@@ -54,8 +54,15 @@ Developing with web techniques - applied to everything
 
 
 ---
-### System Editor (microservices + brokers)
+### Project Editor (microservices + brokers)
 
+Service-first
 
+**Project**
+- Services
+
+**Frontend Service**
+- UI
+	- 
 
 
