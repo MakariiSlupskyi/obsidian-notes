@@ -75,9 +75,14 @@ Service-first
 
 **Action**
 - basically a function
+- described with VizualScript
+
+**VizualScript (VS)**
+- Static- & strong-typed scripting language that describes logic (data transformation)
+- Is to be trans-compiled to any targer language (Go, TypeScript, Python)
 
 **Block**
 - Main UI primitive and action caller
 - Some action can be caller by triggers
 - **Trigger**
-	- eg. onClick
+	- eg. onClick, onHover
