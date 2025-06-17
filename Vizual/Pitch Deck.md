@@ -14,3 +14,4 @@ Others are layers are limited be design
 My project is just an abstraction, that does not depend on specific tech stack
 
 I propose new way of thinking about development
+
