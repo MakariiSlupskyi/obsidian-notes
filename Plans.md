@@ -5,6 +5,8 @@
 - [x] setup terminal
 - [x] setup python, npm, g++
 - [ ] end go course
+- [ ] HTTP clients course
+- [ ] Servers course
 - [ ] end docker course
 - [ ] end CI/CD course
 

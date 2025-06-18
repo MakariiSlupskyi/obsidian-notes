@@ -77,7 +77,8 @@
               "title": "How To Tell Bad Stories Well"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,13 +226,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c0c71e8714531ad",
+  "active": "59a82346db9293d9",
   "lastOpenFiles": [
+    "Project ideas.md",
     "Self-Presentation.md",
     "Interview Soft Skills.md",
     "Plans.md",
     "Vizual/Pitch Deck.md",
-    "Project ideas.md",
     "How To Tell Bad Stories Well.md",
     "Untitled.md",
     "Vizual"
