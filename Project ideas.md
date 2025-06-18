@@ -43,7 +43,15 @@ An AI-powered visual coding platform for building full-stack, cross-platform app
 
 Developing with web techniques - applied to everything
 
+
+**Design rule**
+- Each module should encapsulate its own logic and internal data.
+- 
+
 ---
+
+### For Reddit
+
 Hey everyone!
 
 I'm a solo builder and I’ve been working on a project called **Vizual** — it’s an AI-powered visual coding platform that helps people design full-stack applications **and export real production code**, not just prototypes.

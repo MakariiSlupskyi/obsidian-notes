@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Soft Skills.md",
+                "file": "Project ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interview Soft Skills"
+              "title": "Project ideas"
             }
           },
           {
@@ -77,8 +77,7 @@
               "title": "How To Tell Bad Stories Well"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,14 +225,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59a82346db9293d9",
+  "active": "1c0c71e8714531ad",
   "lastOpenFiles": [
     "Self-Presentation.md",
-    "Vizual/Pitch Deck.md",
+    "Interview Soft Skills.md",
     "Plans.md",
+    "Vizual/Pitch Deck.md",
     "Project ideas.md",
     "How To Tell Bad Stories Well.md",
-    "Interview Soft Skills.md",
     "Untitled.md",
     "Vizual"
   ]
