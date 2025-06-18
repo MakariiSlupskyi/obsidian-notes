@@ -91,8 +91,7 @@
               "title": "How To Tell Bad Stories Well"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +239,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39ac000d69eae826",
+  "active": "59a82346db9293d9",
   "lastOpenFiles": [
     "Event-Driven Architecture.md",
     "Project ideas.md",

@@ -33,7 +33,7 @@
 	- [ ] UI compiler
 - [ ] Landing page
 - [ ] VizualScript 0.2
-	- [ ] 
+	- [ ] Modules, communications (API, Eventsswe3)
 - [ ] Visual Builder
 
 
