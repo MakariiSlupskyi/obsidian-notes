@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans.md",
+                "file": "Vizual/VizualScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plans"
+              "title": "VizualScript"
             }
           },
           {
@@ -91,7 +91,8 @@
               "title": "How To Tell Bad Stories Well"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,12 +240,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59a82346db9293d9",
+  "active": "39ac000d69eae826",
   "lastOpenFiles": [
-    "Vizual/Pitch Deck.md",
     "Plans.md",
-    "Event-Driven Architecture.md",
+    "Vizual/VizualScript.md",
     "Project ideas.md",
+    "Vizual/Pitch Deck.md",
+    "Event-Driven Architecture.md",
     "Untitled.md",
     "Self-Presentation.md",
     "Interview Soft Skills.md",
