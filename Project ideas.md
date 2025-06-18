@@ -44,7 +44,7 @@ An AI-powered visual coding platform for building full-stack, cross-platform app
 Developing with web techniques - applied to everything
 
 
-**DIP** as a 
+> **DIP** as a golden compromise between hard code and soft code
 
 
 **Design rule**
