@@ -43,10 +43,6 @@ An AI-powered visual coding platform for building full-stack, cross-platform app
 
 Developing with web techniques - applied to everything
 
-
-> **DIP** as a golden compromise between hard code and soft code
-
-
 **Design rule**
 - Each module should encapsulate its own logic and internal data.
 - Dependency Inversion: Modules depend on **interfaces**, not implementations.
@@ -56,8 +52,19 @@ Developing with web techniques - applied to everything
 **Core Constructs of VizualScript**
 - Primitives
 - Functions (Nodes)
+- Interfaces (API)
 - UI Description
+- Database
 
+
+**Compilation targets**
+- Backend Monolith
+- Microservices
+- Frontend
+
+
+**To-Do For MVP**
+- 
 
 ---
 
@@ -138,3 +145,101 @@ Service-first
 - Some action can be caller by triggers
 - **Trigger**
 	- eg. onClick, onHover
+
+
+
+
+### One-Pager Pitch
+
+**Vizual – One-Pager Pitch**
+
+🪄 What Is Vizual?
+
+**Vizual** is an **AI-powered visual development platform** that lets you design, build, and compile real, cross-platform applications — without writing traditional code.
+
+It’s **not** no-code. It’s **not** a drag-and-drop toy.  
+It’s a new **visual programming paradigm** that’s as powerful as real code — and far easier to start with.
+
+---
+
+🧱 What You Can Build with Vizual
+
+- 🧩 **Frontend apps** for web, mobile, desktop
+    
+- ⚙️ **Backends** as monoliths or microservices
+    
+- 🔌 **Custom APIs**, workflows, and logic
+    
+- 🗃️ **Databases, schemas**, and admin panels
+    
+- 📦 Compile to real code in **Go, TypeScript, Python, etc.**
+    
+
+---
+
+ 🧠 Why It's Different
+
+|Vizual|Traditional No-Code|Traditional Coding|
+|---|---|---|
+|Declarative + visual|Click-based + limited|Manual and verbose|
+|Compiles to real code|Locked to platform|Full control, but high friction|
+|Backend + frontend|Mostly frontend|Full stack|
+|Flexible architecture|Preset templates|Infinite, but DIY|
+|Easy to learn|Easy to use|Hard to master|
+
+---
+
+ 🔧 How It Works
+
+Behind the scenes, Vizual uses a custom **visual scripting language** called **VizualScript**, which acts like a **universal app interface**:
+
+- All logic, API, database, and UI structure is represented in a **visual, connected graph**
+    
+- That graph is compiled to real, production-grade code
+    
+- You can choose to compile as:
+    
+    - A **Go monolith**
+        
+    - A **React frontend + FastAPI backend**
+        
+    - A **microservice system with queues**
+        
+    - Or even a desktop app
+        
+
+Think of Vizual as:
+
+> 🎮 **Unreal Engine Blueprints**  
+> 🎨 meets **Figma simplicity**  
+> 🧠 meets **Go/Python-level power**
+
+---
+
+ 🔥 Who It's For
+
+- 🛠️ Makers, indie hackers, startup founders
+    
+- 🧑‍💻 Devs who want to move fast without boilerplate
+    
+- 🎨 Designers who want to build real apps
+    
+- 🧪 Technical founders prototyping MVPs fast
+    
+
+If you know what a **database**, an **API**, and a **function** are — you can use Vizual.
+
+---
+
+ 🚀 Why It Matters
+
+Building a real app today requires choosing frameworks, setting up CI, managing folders, connecting DBs, learning a dozen tools.
+
+**Vizual removes all of that — without removing the power.**  
+You focus on **designing your system**, and Vizual compiles it into real code, deployable anywhere.
+
+---
+
+ 🗣 TL;DR Elevator Pitch
+
+> Vizual is a visual-first, AI-powered app compiler that lets you build and ship full-stack, cross-platform apps in minutes — not weeks. It combines the ease of no-code with the power of real code, compiling your logic, UI, and data into production-grade software in Go, TypeScript, Python, or whatever stack you choose.
