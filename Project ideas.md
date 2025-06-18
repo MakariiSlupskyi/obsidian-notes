@@ -44,9 +44,15 @@ An AI-powered visual coding platform for building full-stack, cross-platform app
 Developing with web techniques - applied to everything
 
 
+**DIP** as a 
+
+
 **Design rule**
 - Each module should encapsulate its own logic and internal data.
 - Dependency Inversion: Modules depend on **interfaces**, not implementations
+
+
+
 
 ---
 
