@@ -9,6 +9,7 @@
 - [ ] Servers course
 - [ ] end docker course
 - [ ] end CI/CD course
+- [ ] Understand Event-Driven Architecture
 
 
 **Go Projects**
