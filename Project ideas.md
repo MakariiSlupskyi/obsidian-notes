@@ -64,7 +64,45 @@ Developing with web techniques - applied to everything
 
 
 **To-Do For MVP**
-- 
+- Visually define UI & Logic
+- Compile into code
+
+
+**Steps**
+- [ ] VizualScript for
+	- [ ] Structured JSON-like format for UI
+	- [ ] Format for API
+- [ ] 
+
+
+
+---
+
+I'm building a project called **Vizual** — an AI-first, visual coding platform that sits between no-code and traditional coding. It's designed to let beginner developers, startups, and "vibe coders" build full-stack, cross-platform apps visually.
+
+Projects in Vizual are defined using a **visual scripting system** called **VizualScript**, which can describe:
+
+- Backend logic (functions, APIs, DB models)
+    
+- Frontend UI layouts and component behavior
+    
+- Communication between microservices or modules
+    
+- External API integrations
+    
+
+The same project can be compiled to:
+
+- A backend monolith (e.g., Go or Python)
+    
+- A distributed microservice system
+    
+- A desktop app or web frontend
+    
+
+Vizual is not just another no-code tool — it's a **declarative-first abstraction layer** over real code (Go, TS, etc.), focused on **developer empowerment**, not hiding complexity.
+
+I need help designing features, architecture, and MVPs that make this platform useful, scalable, and intuitive.
 
 ---
 
