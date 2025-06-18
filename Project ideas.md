@@ -68,11 +68,15 @@ Developing with web techniques - applied to everything
 - Compile into code
 
 
-**Steps**
-- [ ] VizualScript for
-	- [ ] Structured JSON-like format for UI
-	- [ ] Format for API
-- [ ] 
+**Steps to Launch**
+- [ ] `VizualScript 0.1` Format
+	- [ ] for API
+	- [ ] for UI (Block, Text, Event)
+- [ ] Python compiler 0.1
+	- [ ] API compiler
+	- [ ] UI compiler
+- [ ] Landing page
+- [ ] Visual Builder
 
 
 

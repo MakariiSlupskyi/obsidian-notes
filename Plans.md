@@ -24,6 +24,19 @@
 - [ ] NeuraNotes Backend
 
 
+**Steps to Launch**
+- [ ] VizualScript 0.1
+	- [ ] for API
+	- [ ] for UI (Block, Text, Event)
+- [ ] Python compiler 0.1
+	- [ ] API compiler
+	- [ ] UI compiler
+- [ ] Landing page
+- [ ] VizualScript 0.2
+	- [ ] 
+- [ ] Visual Builder
+
+
 **Videos**
 - [ ] self-presentation
 - [ ] experience cheating
