@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,10 +226,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b31f3de954699352",
+  "active": "59a82346db9293d9",
   "lastOpenFiles": [
-    "Vizual/Pitch Deck.md",
     "Self-Presentation.md",
+    "Vizual/Pitch Deck.md",
     "Plans.md",
     "Project ideas.md",
     "How To Tell Bad Stories Well.md",
