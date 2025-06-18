@@ -53,6 +53,10 @@ Developing with web techniques - applied to everything
 - Event-Driven Communication with event bus (in-memory, Kafka).
 
 
+**Core Constructs of VizualScript**
+- Primitives
+- Functions (Nodes)
+- UI Description
 
 
 ---
