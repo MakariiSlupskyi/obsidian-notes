@@ -4,7 +4,6 @@
 - [x] setup mac-specific soft
 - [x] setup terminal
 - [x] setup python, npm, g++
-- [ ] create CRUD with go, docker, postgres
 - [ ] end go course
 - [ ] end docker course
 - [ ] end CI/CD course
