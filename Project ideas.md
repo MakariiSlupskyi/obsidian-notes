@@ -46,7 +46,7 @@ Developing with web techniques - applied to everything
 
 **Design rule**
 - Each module should encapsulate its own logic and internal data.
-- 
+- Dependency Inversion: Modules depend on **interfaces**, not implementations
 
 ---
 
