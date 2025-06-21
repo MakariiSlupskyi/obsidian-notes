@@ -32,3 +32,14 @@
 
 #### Click to Open Rate (CTOR)
 **Formula:** (total number of clicks / total number of email opens) x 100
+
+
+**Core Unit Economics**
+1. 1. Customer Acquisition Cost (CAC)
+2. Customer Lifetime Value (LTV or CLTV)
+3. LTV to CAC Ratio
+4. Marketing Payback Period
+5. Average Revenue Per User (ARPU)
+6. Gross Margin (%)
+7. Churn Rate (especially for SaaS)
+
