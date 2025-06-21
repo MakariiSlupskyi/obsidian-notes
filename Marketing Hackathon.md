@@ -43,3 +43,8 @@
 6. Gross Margin (%)
 7. Churn Rate (especially for SaaS)
 
+
+
+- Market Research (TAM/SAM/SOM)
+- Slide 6 – Pricing Strategy (APRU)
+
