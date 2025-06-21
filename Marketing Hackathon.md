@@ -78,3 +78,4 @@ AppMagic
 - **In-app pricing model** (monthly/yearly plans — from metadata or screenshots)
 - **Revenue by country** to see target regions
 
+корпоративноорієнтований
