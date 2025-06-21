@@ -68,4 +68,13 @@
 Get from competitors
 - Customer Lifetime
 - Total Marketing Spend
-- 
+
+
+Understand app performance (downloads, revenue, monetization)
+
+AppMagic
+- **Monthly downloads** of similar AI/chatbot iOS apps
+- **Monthly revenue estimates** for those apps
+- **In-app pricing model** (monthly/yearly plans — from metadata or screenshots)
+- **Revenue by country** to see target regions
+
