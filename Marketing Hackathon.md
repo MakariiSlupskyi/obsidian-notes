@@ -47,4 +47,23 @@
 
 - Market Research (TAM/SAM/SOM)
 - Slide 6 – Pricing Strategy (APRU)
+- Acquisition Channels ()
 
+
+**Metrics**
+- ARPU = Total Revenue / Number of Active Users
+- LTV = ARPU × Customer Lifetime (in months)
+- CAC = Total Marketing Spend / Number of Customers Acquired
+- LTV:CAC = LTV / CAC
+- Conversion Rate = Paying Customers / Total Visitors (or Installs)
+- ROAS = Revenue from Ads / Ad Spend
+- CPC = Total Ad Spend / Number of Clicks
+- CPM = (Total Ad Spend / Number of Impressions) × 1000
+- CPL = Total Marketing Spend / Number of Leads Generated
+- Churn Rate = Customers Lost / Customers at Start of Period
+- Trial-to-Paid = Paid Users / Trial Users
+- Payback Period = CAC / Monthly Gross Profit per Customer
+
+
+Get from 
+- Customer Lifetime
