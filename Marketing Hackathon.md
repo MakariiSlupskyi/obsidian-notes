@@ -65,5 +65,7 @@
 - Payback Period = CAC / Monthly Gross Profit per Customer
 
 
-Get from 
+Get from competitors
 - Customer Lifetime
+- Total Marketing Spend
+- 
