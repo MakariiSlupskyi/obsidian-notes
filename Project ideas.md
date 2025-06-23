@@ -182,7 +182,7 @@ Service-first
 - Static- & strong-typed scripting language that describes logic (data transformation)
 - Is to be trans-compiled to any targer language (Go, TypeScript, Python)
 
-**Block**
+**Block Description**
 - Main UI primitive and action caller
 - Action are called by triggers (eg. onClick, onHover)
 - Blocks are used in building components (main UI abstraction in real code. When code is generated, blocks are represented with divs, appropriate CSS and hooks like useState, useRef etc.)
@@ -200,6 +200,14 @@ Service-first
 	- External actions ()
 	- Internal state change
 	- Visuals change
+
+
+**Vizual Logic System**
+- action
+- interface
+- struct
+
+
 
 
 
