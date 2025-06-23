@@ -197,7 +197,7 @@ Service-first
 - **Layout**
 - **Visuals**
 - **Interactive**
-	- External actions
+	- External actions ()
 	- Internal state change
 	- Visuals change
 
