@@ -194,7 +194,9 @@ Service-first
 - Triggers --> actions
 
 **Block Options**
-
+- **Layout**
+- **Visuals**
+- **Interactive**
 
 
 ### One-Pager Pitch
