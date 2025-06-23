@@ -186,7 +186,7 @@ Service-first
 - Main UI primitive and action caller
 - Action are called by triggers (eg. onClick, onHover)
 - Blocks are used in building components (main UI abstraction in real code. When code is generated, blocks are represented with divs, appropriate CSS and hooks like useState, useRef etc.)
-- Blocks are mostly like a flexbox container with style 
+- Blocks are mostly like a flexbox container with style adaptations like in CSS (background, border, border radius etc.)
 
 
 
