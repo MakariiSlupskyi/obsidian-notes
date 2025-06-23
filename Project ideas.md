@@ -198,7 +198,8 @@ Service-first
 - **Visuals**
 - **Interactive**
 	- External actions
-	- 
+	- Internal state change
+	- Visuals change
 
 
 
