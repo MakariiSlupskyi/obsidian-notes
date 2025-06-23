@@ -197,6 +197,9 @@ Service-first
 - **Layout**
 - **Visuals**
 - **Interactive**
+	- External actions
+	- 
+
 
 
 ### One-Pager Pitch
