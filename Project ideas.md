@@ -193,6 +193,8 @@ Service-first
 - Internal state
 - Triggers --> actions
 
+**Block Options**
+
 
 
 ### One-Pager Pitch
