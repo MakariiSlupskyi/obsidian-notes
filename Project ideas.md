@@ -39,7 +39,7 @@ A full-stack app where users can write, organize, and analyze notes— with the 
 
 ### 2. Vizual – AI-powered visual-coding dev tool
 
-An AI-powered visual coding platform for building full-stack, cross-platform apps — aimed at beginner developers, indie hackers, and teams — with real code export.
+An AI-powered visual coding platform for building full-stack, cross-platform apps — aimed at\\ beginner developers, indie hackers, and teams — with real code export.
 
 Developing with web techniques - applied to everything
 
