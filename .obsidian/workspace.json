@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project ideas.md",
+                "file": "Мотиваційний лист.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project ideas"
+              "title": "Мотиваційний лист"
             }
           },
           {
@@ -199,14 +199,14 @@
   },
   "active": "59a82346db9293d9",
   "lastOpenFiles": [
+    "Project ideas.md",
     "Plans.md",
     "Vizual/VizualScript.md",
     "Vizual/Pitch Deck.md",
     "Interview Soft Skills.md",
     "Self-Presentation.md",
-    "Untitled.md",
+    "Мотиваційний лист.md",
     "Marketing Hackathon.md",
-    "Project ideas.md",
     "How To Tell Bad Stories Well.md",
     "Event-Driven Architecture.md",
     "Vizual"
