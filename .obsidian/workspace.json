@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "4dd026a6d490b144",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
             "id": "529556bb67127581",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               "title": "VizualScript"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,6 +201,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -197,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59a82346db9293d9",
+  "active": "4dd026a6d490b144",
   "lastOpenFiles": [
     "Marketing Hackathon.md",
     "Vizual/VizualScript.md",
