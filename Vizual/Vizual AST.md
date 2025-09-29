@@ -80,16 +80,14 @@ page:
 					children:
 						- text:
 							val: +
-				- comp:
-					type: button
-					text: +
-					action: funcLit
 ```
 
 
 
 ``` TypeScript
-interface Block {
-	
+interface Expr 
+
+interface FuncLit {
+	body: 
 }
 ```
