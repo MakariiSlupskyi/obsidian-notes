@@ -21,6 +21,7 @@ Type is a tree of:
 ## Counter AST
 
 ``` yaml
-project
-
+frontend
+	name: Counter
+	
 ```
