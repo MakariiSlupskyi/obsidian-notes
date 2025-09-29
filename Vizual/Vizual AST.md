@@ -42,6 +42,12 @@ block:
 		onHover
 
 
+funcLit:
+	type:
+		params
+		results
+	body
+
 page:
 	name: Counter
 	state:
@@ -59,7 +65,10 @@ page:
 			children:
 				- block:
 					logic:
-						
+						onClick:
+							funcLit:
+								body:
+									
 					children:
 						- text:
 							val: +
