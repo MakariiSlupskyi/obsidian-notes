@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "right": {
     "id": "21156c3c0149cda4",
@@ -200,8 +201,9 @@
   },
   "active": "59a82346db9293d9",
   "lastOpenFiles": [
-    "How To Tell Bad Stories Well.md",
+    "Untitled.base",
     "Vizual/Vizual AST.md",
+    "How To Tell Bad Stories Well.md",
     "Project ideas.md",
     "Marketing Hackathon.md",
     "Interview Soft Skills.md",

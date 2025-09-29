@@ -10,4 +10,18 @@ Expression is a tree of:
 - funcLit
 - compositeLit
 - parenExpr
-- 
+- unaryExpr
+- binaryExpr
+
+Type is a tree of:
+- arrayType
+- funcType
+
+---
+## Counter AST
+
+``` YAML
+dfdf
+- df
+
+```
