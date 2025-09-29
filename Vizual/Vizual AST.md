@@ -48,6 +48,8 @@ funcLit:
 		results
 	body
 
+
+
 page:
 	name: Counter
 	state:
@@ -68,7 +70,13 @@ page:
 						onClick:
 							funcLit:
 								body:
-									
+									- assingStmt:
+										left: ident: count
+										right:
+											binOp:
+												left: ident: count
+												op: +
+												right: basicLit: 1
 					children:
 						- text:
 							val: +
@@ -77,6 +85,8 @@ page:
 					text: +
 					action: funcLit
 ```
+
+
 
 ``` TypeScript
 interface Block {
