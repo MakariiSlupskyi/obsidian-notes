@@ -4,3 +4,10 @@ Three main classes:
 - statements
 - declarations
 
+Expression is a tree of:
+- ident
+- bacisLit
+- funcLit
+- compositeLit
+- parenExpr
+- 
