@@ -21,6 +21,27 @@ Type is a tree of:
 ## Counter AST
 
 ``` yaml
+block:
+	style:
+		color
+		border
+		borderColor
+		rounded
+	align:
+		padding
+		margin
+		dir
+		main
+		cross
+		wrap?
+		reverse?
+	logic:
+		showIf
+		loopFor
+		onClick
+		onHover
+
+
 page:
 	name: Counter
 	state:
@@ -37,7 +58,11 @@ page:
 		- block:
 			children:
 				- block:
-					  
+					logic:
+						
+					children:
+						- text:
+							val: +
 				- comp:
 					type: button
 					text: +
