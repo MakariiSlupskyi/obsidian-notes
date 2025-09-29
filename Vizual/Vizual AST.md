@@ -43,3 +43,9 @@ page:
 					text: +
 					action: funcLit
 ```
+
+``` TypeScript
+interface Block {
+	
+}
+```
