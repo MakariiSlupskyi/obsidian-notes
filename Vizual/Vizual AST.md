@@ -23,9 +23,23 @@ Type is a tree of:
 ``` yaml
 page:
 	name: Counter
-	dir: col
-	cross: center
+	state:
+		- count:
+			  type: number
+			  val: 0
+	align:
+		dir: col
+		cross: center
 	children:
 		- text:
-			val: 
+			val:
+				ident: count
+		- block:
+			children:
+				- block:
+					  
+				- comp:
+					type: button
+					text: +
+					action: funcLit
 ```
