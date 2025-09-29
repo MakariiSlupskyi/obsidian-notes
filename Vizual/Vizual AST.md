@@ -20,8 +20,7 @@ Type is a tree of:
 ---
 ## Counter AST
 
-``` YAML
-dfdf
-- df
+``` yaml
+project
 
 ```
