@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vizual/Vizual AST.md",
+                "file": "Vizual/Pitch Deck.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vizual AST"
+              "title": "Pitch Deck"
             }
           },
           {
@@ -201,8 +201,8 @@
   },
   "active": "59a82346db9293d9",
   "lastOpenFiles": [
-    "Untitled.base",
     "Vizual/Vizual AST.md",
+    "Untitled.base",
     "How To Tell Bad Stories Well.md",
     "Project ideas.md",
     "Marketing Hackathon.md",
