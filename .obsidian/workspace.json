@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "f1fc74cb74b9ba4e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "529556bb67127581",
             "type": "leaf",
             "state": {
@@ -63,7 +75,8 @@
               "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +226,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59a82346db9293d9",
+  "active": "f1fc74cb74b9ba4e",
   "lastOpenFiles": [
     "Plans.md",
     "Vizual/VizualScript.md",
