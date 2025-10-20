@@ -63,8 +63,7 @@
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,8 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdec2873245a3cdf",
+  "active": "59a82346db9293d9",
   "lastOpenFiles": [
+    "Plans.md",
+    "Vizual/VizualScript.md",
     "Untitled.md",
     "НМТ/Історія.md",
     "Untitled.base",
@@ -228,8 +229,6 @@
     "Interview Soft Skills.md",
     "Self-Presentation.md",
     "Мотиваційний лист.md",
-    "Vizual/VizualScript.md",
-    "Plans.md",
     "Event-Driven Architecture.md",
     "Vizual"
   ]
