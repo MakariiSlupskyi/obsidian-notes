@@ -1,11 +1,18 @@
 https://medium.com/@smart_byte_labs/organize-like-a-pro-a-simple-guide-to-go-project-folder-structures-e85e9c1769c2
+
+``` shell
+go mod init github.com/MakariiSlupskyi/simple-crud
+
+```
+
+
 ## Domain-Driven Design
 
 ```
 project  
 ├── cmd # Command-related files  
 │   └── app # Application entry point  
-│   └── main.go # Main application logic  
+│       └── main.go # Main application logic  
 ├── internal # Internal codebase  
 │   ├── user # Domain 'user'  
 │   │   ├── handler.go # User-specific handler  
