@@ -61,5 +61,6 @@ Tech Stack
 
 
 **Ideas to go live**
-- [ ] simple go srud
+- [ ] simple go crud
+- [ ] go crud with db
 - [ ] 
