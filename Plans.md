@@ -13,7 +13,7 @@
 
 
 **Go Projects**
-- [ ] TUI Habit Tracker
+- [x] TUI Habit Tracker
 - [ ] Simple TUI Builder
 - [ ] Simple API
 - [ ] Concurrent Web Scraper
@@ -58,3 +58,8 @@ Tech Stack
 **Work**
 - [ ] Create simple but finished project to train tech (NeuraNotes)
 - [ ] Create webby (Vizual)
+
+
+**Ideas to go live**
+- [ ] simple go srud
+- [ ] 
