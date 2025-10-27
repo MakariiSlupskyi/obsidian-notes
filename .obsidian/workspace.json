@@ -49,8 +49,7 @@
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "right": {
     "id": "21156c3c0149cda4",
@@ -199,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "048d2d993c66ec35",
+  "active": "39ac000d69eae826",
   "lastOpenFiles": [
-    "Untitled.md",
     "Go Project Structure.md",
+    "Untitled.md",
     "Plans.md",
     "Self-Presentation.md",
     "Project ideas.md",
