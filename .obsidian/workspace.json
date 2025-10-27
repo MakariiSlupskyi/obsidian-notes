@@ -49,7 +49,8 @@
               "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,11 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39ac000d69eae826",
+  "active": "048d2d993c66ec35",
   "lastOpenFiles": [
+    "Plans.md",
     "Go Project Structure.md",
     "Untitled.md",
-    "Plans.md",
     "Self-Presentation.md",
     "Project ideas.md",
     "Vizual/Pitch Deck.md",
