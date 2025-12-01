@@ -35,8 +35,7 @@
               "title": "Фізика"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6601e7e36f6b54b8",
+  "active": "fdec2873245a3cdf",
   "lastOpenFiles": [
-    "НМТ/Історія.md",
     "НМТ/Фізика.md",
+    "НМТ/Історія.md",
     "Go Project Structure.md",
     "Untitled.md",
     "Plans.md",
