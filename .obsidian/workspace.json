@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "a3c403efa1671c57",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
             "id": "6601e7e36f6b54b8",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               "title": "Фізика"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3c403efa1671c57",
+  "active": "fdec2873245a3cdf",
   "lastOpenFiles": [
     "НМТ/Фізика.md",
     "НМТ/Історія.md",
